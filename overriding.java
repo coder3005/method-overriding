@@ -8,7 +8,7 @@ class shape
 }
 class square extends shape
 {
-    @Override 
+    @Override /* output will be 'square shape' */
     void draw()
     {
         System.out.println("square shape")
