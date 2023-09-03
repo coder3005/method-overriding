@@ -8,7 +8,7 @@ class shape
 }
 class square extends shape
 {
-    void draw2() /* output will be "Can't Say shape Type" */
+    void draw() /* output will be "Can't Say shape Type" */
     {
         System.out.println("square shape")
     }
