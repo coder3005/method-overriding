@@ -10,7 +10,7 @@ class square extends shape
 {
     void draw() /* output will be "Can't Say shape Type" */
     {
-        System.out.println("square shape")
+        System.out.println("square shape");
     }
 }
 class demo
